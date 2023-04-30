@@ -1,0 +1,15 @@
+
+CTRL +  N         - New file
+CTRL + O          - Open file
+
+CTRL + SHIFT + L  - Rename occurences of a word
+CTRL + D          - Rename occurences of a word by selecting each occurence 
+CTRL + P          - Open any file in current working folder or recent files
+CTRL + L          - Select line fully
+CTRL + G          - Goto line
+CTRL + "/"        - Comment a line 
+
+SHIFT + ALT + F   - indent everything
+ALT + UP/DOWN     - move lines up/down
+
+CTRL + 1/2/3 - Toggle between files in groups
