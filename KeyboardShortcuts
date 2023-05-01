@@ -13,3 +13,14 @@ SHIFT + ALT + F   - indent everything
 ALT + UP/DOWN     - move lines up/down
 
 CTRL + 1/2/3 - Toggle between files in groups
+
+ALT + Scroll - Faster Scroll
+
+EXTENSIONS:
+@category "what you want to filter" - Filter extensions based on theme
+@sort - sort extensions
+@category @sort - combine multiple things in extensions
+
+Emet:
+in HTML shortcuts that fill in commands
+
